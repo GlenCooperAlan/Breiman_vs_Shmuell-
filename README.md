@@ -16,5 +16,7 @@ Shmueli echoes Breiman’s advocacy for predictive modeling but also outlines a 
 In conclusion, both Breiman and Shmueli believe that the scientific community should more fully embrace predictive modeling and integrate its methods into scientific research.
 
 References:
+
 Breiman, L. (2003). Statistical modeling: The two cultures. Quality control and applied statistics, 48(1), 81-82.
+
 Shmueli, G. (2010). To explain or to predict?. Statistical science, 25(3), 289-310.
