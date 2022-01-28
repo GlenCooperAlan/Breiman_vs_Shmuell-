@@ -1,13 +1,9 @@
 # Breiman_vs_Shmuell-
 
 EPPS Knowledge Mining
-
 Comparison between Breiman (2003) and Shmueli (2010)
-
 Prepared for: Dr. Ho
-
 Prepared by: Glen Cooper
-
 Date: January 27, 2022
 
 
